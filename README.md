@@ -14,7 +14,7 @@
 - 🌱 I’m currently using JS & TS, Java, Rust。
 - 📫 Reach me: 2951074187@qq.com
 - 😄 Pronouns: zdy
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/anncwb?label=follow%20me&style=social)](https://github.com/anncwb/)
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/zdy-zg-QQ?label=follow%20me&style=social)](https://github.com/zdy-zg-QQ/)
 
 <p align="center">
   Visitor count<br>
