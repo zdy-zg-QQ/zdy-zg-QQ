@@ -7,13 +7,6 @@
 
 [![Jiacheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zdy-zg-QQ)](https://gitee.com/zdy-zg-QQ)
 
-![java](https://img.shields.io/badge/%20-%20java-brightgreeng?style=for-the-badge&logo=java&logoColor=white)
-![Vue](https://img.shields.io/badge/%20-%20vue-yellow?style=for-the-badge&logo=vue&logoColor=white)
-![JavaScript](https://img.shields.io/badge/%20-%20javaScript-brightgreeng?style=for-the-badge&logo=javaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/%20-%20typeScript-yellow?style=for-the-badge&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/%20-%20mysql-brightgreeng?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/%20-%20mongodb-yellow?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-%23323330.svg?logo=java&logoColor=%23F7DF1E&style=flat-square)
 ![Vue](https://img.shields.io/badge/Vue-%23007acc.svg?logo=vue&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square)
