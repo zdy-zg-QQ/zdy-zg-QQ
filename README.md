@@ -1,10 +1,10 @@
 ![java](https://img.shields.io/badge/%20-%20java-brightgreeng?style=for-the-badge&logo=java&logoColor=white)
-![typescript](https://img.shields.io/badge/%20-%20typescript-red?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/%20-%20vue-yellow?style=for-the-badge&logo=typescript&logoColor=white)
-
-
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc.svg?logo=typescript&logoColor=white&style=flat-square)
+<img src="https://img.shields.io/badge/MySQL-%234479a1.svg?logo=MySQL&logoColor=white&style=flat-square" alt="MySQL" />
+<img src="https://img.shields.io/badge/Mongodb-%234ea94b.svg?logo=Mongodb&logoColor=white&style=flat-square" alt="MongoDB" /> 
 [![Jiacheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zdy-zg-QQ)](https://gitee.com/zdy-zg-QQ)
-
 
 ###  Hi, I'm Zdy 👋
 
