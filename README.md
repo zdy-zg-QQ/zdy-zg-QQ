@@ -19,6 +19,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/zdy-zg-QQ/count.svg" />
 </p>
-<a href="https://github.com/zdy-zg-QQ/stargazers">
+<a href="https://github.com/zdy-zg-QQ">
     <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=zdy-zg-QQ&type=Date">
 </a> 
