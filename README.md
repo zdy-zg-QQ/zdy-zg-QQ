@@ -1,7 +1,7 @@
 ###  Hi, I'm Zdy 👋
 - 🔭 I’m currently working in Nanchang China.
 - 🌱 I’m currently using JS & TS, Java, Golang。
-- 📫 Reach me: 2951074187@qq.com
+- 📫 Reach me: ****
 - 😄 Pronouns: zdy
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/zdy-zg-QQ?label=follow%20me&style=social)](https://github.com/zdy-zg-QQ/)
 
